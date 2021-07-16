@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @modernlabrat
-- 👀 I’m interested in Mobile/Web and Game Development
 - 🌱 I’m currently building a tech conglomerate 
 - 💞️ I’m looking to collaborate on Parsing Web/Mobile Applications
-- 📫 How to reach me www.twitter.com/modernlabrat or www.linkedin.com/modernlabrat
+- 📫 How to reach me www.twitter.com/modernlabrat 
 
 <!---
 modernlabrat/modernlabrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
