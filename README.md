@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @modernlabrat
-- 🌱 I’m currently building a tech conglomerate 
+- 🌱 I’m currently building a tech conglomerate => The Phoenix Labs, Inc
 - 💞️ I’m looking to collaborate on automating web and mobile development and building smart mirrors
 - 📫 Discord: @modernlabrat | Instagram: @nixtechcompany @smartReflexions | My Portfolio: https://kyras-world.web.app
 
