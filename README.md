@@ -1,7 +1,7 @@
-👋 Hi, I’m @modernlabrat
-✨ I’m currently building a tech conglomerate => The Phoenix Labs, Inc
-💞️ I’m looking to collaborate on automating web and mobile development and building smart mirrors
-📫 Discord: @modernlabrat | Instagram: @nixtechcompany @smartReflexions | My Portfolio: https://kyras-world.web.app
+- 👋 Hi, I’m @modernlabrat
+- ✨ I’m currently building a tech conglomerate => The Phoenix Labs, Inc
+- 💞️ I’m looking to collaborate on automating web and mobile development and building smart mirrors
+- 📫 Discord: @modernlabrat | Instagram: @nixtechcompany @smartReflexions | My Portfolio: https://kyras-world.web.app
 
 <!---
 modernlabrat/modernlabrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
